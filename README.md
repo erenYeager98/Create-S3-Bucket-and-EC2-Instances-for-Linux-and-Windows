@@ -53,7 +53,7 @@ Launch Windows EC2 instance and connect using RDP.
 ## OUTPUT
 
 ## S3 Bucket:
-![image](https://github.com/user-attachments/assets/c290426e-7549-409d-842b-81420fd94578)
+![WhatsApp Image 2024-11-20 at 09 35 23_9fd90cb7](https://github.com/user-attachments/assets/293b62da-0dac-4ccc-9a04-2cb65bd06f5f)
 
 ## LINUX Instance:
 
